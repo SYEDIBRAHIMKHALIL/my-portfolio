@@ -1,16 +1,16 @@
 # Syed Ibrahim Khalil's Portfolio
 
-👋 Hi there! I'm Syed Ibrahim Khalil, a cybersecurity aspirant with a passion for building secure and privacy-focused solutions. Welcome to my portfolio!
+👋 Hi there! I'm Ibrahim, a cybersecurity aspirant with a passion for building secure and privacy-focused solutions. Welcome to my portfolio!
 
 ## About Me
 
-I'm a versatile technologist who has worked with various stacks and technologies, but my current focus lies in cybersecurity and privacy tools. With a background in [mention any relevant fields like computer science, IT, etc.], I'm dedicated to enhancing digital security and safeguarding user privacy in today's interconnected world.
+I'm a versatile technologist who has worked with various stacks and technologies, but my current focus lies in cybersecurity and privacy tools. With a background in IT Infrastructure, I'm dedicated to enhancing digital security and safeguarding user privacy in today's interconnected world.
 
 ## Featured Projects
 
 Here are some of the projects I've worked on:
 
-- [SecureChat App](link): A privacy-focused messaging application with end-to-end encryption and advanced security features.
+- [JPMorgan Chase Financial Fraud Detection](https://github.com/SYEDIBRAHIMKHALIL/jpmc-financial-fraud-project): A data analysis project focused on detecting financial fraud using a Kaggle dataset, including scripts for transaction analysis, visualizations, and fraud identification.
 - [PrivacyGuard Browser Extension](link): A browser extension designed to protect user privacy by blocking trackers, ads, and malicious scripts.
 - [Cybersecurity Blog](link): A blog where I share insights, tips, and tutorials on cybersecurity, privacy, and emerging technologies.
 
