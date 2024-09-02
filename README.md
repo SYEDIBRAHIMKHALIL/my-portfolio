@@ -10,8 +10,8 @@ I'm a versatile technologist who has worked with various stacks and technologies
 
 Here are some of the projects I've worked on:
 
-- [JPMorgan Chase Financial Fraud Detection](https://github.com/SYEDIBRAHIMKHALIL/jpmc-financial-fraud-project): A data analysis project focused on detecting financial fraud using a Kaggle dataset, including scripts for transaction analysis, visualizations, and fraud identification.
-- [PrivacyGuard Browser Extension](link): A browser extension designed to protect user privacy by blocking trackers, ads, and malicious scripts.
+- [JPMorgan Chase Financial Fraud Detection](https://github.com/SYEDIBRAHIMKHALIL/jpmc-financial-fraud-project): A data analysis project focused on detecting financial fraud using a [Kaggle dataset](https://www.kaggle.com/datasets/ealaxi/paysim1), including scripts for transaction analysis, visualizations, and fraud identification.
+- [CrowdAnym](https://github.com/SYEDIBRAHIMKHALIL/CrowdAnym): A cybersecurity project developed in collaboration between the [University of Bamberg](https://www.uni-bamberg.de/en/forschung/wissenschaftl-einrichtungen/forschungs-labs/smart-city-research-lab/translate-to-1-english-projektarchiv/translate-to-1-english-crowdanym/) and the [University of Washington](https://www.uwb.edu/news/2023/10/13/researching-security-and-privacy-for-smart-cities), focused on sensor vulnerability testing and penetration testing of wireless networks. Sponsored by [BMDV](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/crowdanym.html), [Stadt Bamberg](https://smartcity.bamberg.de/2023/08/24/crowdanym-misst-via-sensoren-wie-voll-es-in-bamberg-ist/), and Safectory GmbH, it includes tools for generating spoofed MAC addresses, setting adapters to monitor mode, and executing attack scripts.
 - [Cybersecurity Blog](link): A blog where I share insights, tips, and tutorials on cybersecurity, privacy, and emerging technologies.
 
 For a full list of my projects, please visit the [Projects](projects.md) page.
