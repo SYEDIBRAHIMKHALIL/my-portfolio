@@ -1,6 +1,7 @@
 # Syed Ibrahim Khalil's Portfolio
 
-👋 Hi there! I'm Ibrahim, a cybersecurity aspirant with a passion for building secure and privacy-focused solutions. Welcome to my portfolio!
+👋 Hi there! I am Ibrahim, a Computer Scientist specializing in Distributed and Mobile Systems with a passion for Privacy and Security, particularly Differential Privacy. I am a Certified Cybersecurity professional with expertise in IoT Security Engineering.
+Welcome to my portfolio!
 
 ## About Me
 
