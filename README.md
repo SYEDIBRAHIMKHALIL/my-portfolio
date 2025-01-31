@@ -18,7 +18,9 @@ For a full list of my projects, please visit the [Projects](projects.md) page.
 
 ## Research Contribution
 
-I'm also actively involved in research related to privacy and security. Recently, I collaborated on an article about privacy, which was published in a renowned journal. You can find more about my research contributions on my [ORCID profile](https://orcid.org/my-orcid?orcid=0009-0007-7485-6572).
+I am actively engaged in research on privacy and security, with a focus on privacy-aware data collection and protection strategies. Recently, I contributed to a research project on privacy-aware crowd monitoring, which was presented at the [ACM SIGSPATIAL GeoPrivacy ’23](https://sigspatial2023.sigspatial.org/). My role involved analyzing attack models that could exploit anonymized Wi-Fi probe data and developing technical data protection strategies to mitigate these risks.
+
+You can read more about my research and findings in my blog post: [Privacy-aware Publication of Wi-Fi Sensor Data for Crowd Monitoring.](https://syedibrahimkhalil.com/2023/11/21/research-1/)You can find more about my research contributions on my [ORCID profile](https://orcid.org/my-orcid?orcid=0009-0007-7485-6572).
 
 ## Contact Me
 
