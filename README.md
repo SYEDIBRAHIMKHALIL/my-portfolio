@@ -15,8 +15,6 @@ Here are some of the projects I've worked on:
 - [CrowdAnym](https://github.com/SYEDIBRAHIMKHALIL/CrowdAnym): A cybersecurity project developed in collaboration between the [University of Bamberg](https://www.uni-bamberg.de/en/forschung/wissenschaftl-einrichtungen/forschungs-labs/smart-city-research-lab/translate-to-1-english-projektarchiv/translate-to-1-english-crowdanym/) and the [University of Washington](https://www.uwb.edu/news/2023/10/13/researching-security-and-privacy-for-smart-cities), focused on sensor vulnerability testing and penetration testing of wireless networks. Sponsored by [BMDV](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/crowdanym.html), [Stadt Bamberg](https://smartcity.bamberg.de/2023/08/24/crowdanym-misst-via-sensoren-wie-voll-es-in-bamberg-ist/), and Safectory GmbH, it includes tools for generating spoofed MAC addresses, setting adapters to monitor mode, and executing attack scripts.
 - [Cybersecurity Blog](link): A blog where I share insights, tips, and tutorials on cybersecurity, privacy, and emerging technologies.
 
-For a full list of my projects, please visit the [Projects](projects.md) page.
-
 ## Research Contribution
 
 I am actively engaged in research on privacy and security, with a focus on privacy-aware data collection and protection strategies. Recently, I contributed to a research project on privacy-aware crowd monitoring, which was presented at the [ACM SIGSPATIAL GeoPrivacy ’23](https://sigspatial2023.sigspatial.org/). My role involved analyzing attack models that could exploit anonymized Wi-Fi probe data and developing technical data protection strategies to mitigate these risks.
