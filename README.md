@@ -24,7 +24,7 @@ You can find more about my research contributions on my [ORCID profile](https://
 
 ## Contact Me
 
-📫 Interested in collaborating on a project or discussing cybersecurity topics? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/syedibrahimkhalil/) or [email](mailto:your.email@example.com). Let's connect and make the digital world safer together!
+📫 Interested in collaborating on a project or discussing cybersecurity topics? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/syedibrahimkhalil/) or [email](mailto:syedibrahimkhalil@protonmail.com). Let's connect and make the digital world safer together!
 
 You can also visit my [personal website](http://syedibrahimkhalil.com/) to learn more about my projects and interests.
 
